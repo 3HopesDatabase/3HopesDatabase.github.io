@@ -1,5 +1,5 @@
 
-* Disclaimer: "Datamine" doesn't mean the technical cs definition of datamining... It's just game text / dialogue here..
+* Disclaimer: This site is a combination of datamined assets & my own compilation of info (e.g. screenshots) of the game. Exists for informational, personal use only.
 
 Website layout
 
